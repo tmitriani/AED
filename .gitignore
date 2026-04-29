@@ -40,14 +40,18 @@
 # debug information files
 *.dwo
 
-# Configuración de VS Code
-.vscode/
+
 
 # .gitignore de ejecutables solicitado por el profesor
-# Microsoft
-*.exe
+
 
 # Unix
 *
 !/**/
 !*.*
+
+# Microsoft
+*.exe
+
+# Configuración de VS Code
+.vscode/
